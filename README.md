@@ -14,8 +14,8 @@ This repository contains my structured solutions for the **Striver A2Z DSA Sheet
 
 ## 📝 Repository Content
 Each topic includes:
-- Notes / Key patterns
-- C++ / Python solutions
+- Notes
+- C++
 - Difficulty-wise progression
 - Personal observations
 
