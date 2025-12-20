@@ -9,6 +9,7 @@ int main(){
     string s = "kartavya";
     cout<<"\n"<<s;
     cout<<"\n"<<s[2];
+    cout<<"\n"<<s+'e';
     cout<<"\n"<<s.size()<<" "<<sizeof(arr)/4;
     return 0;
 }
