@@ -3,9 +3,7 @@
         {
             "name": "Win32",
             "includePath": [
-                "C:/MinGW/include",
-                "C:/MinGW/lib/gcc/mingw32/6.3.0/include",
-                "C:/MinGW/lib/gcc/mingw32/6.3.0/include/c++"
+                "${workspaceFolder}/**"
             ],
             "defines": [
                 "_DEBUG",
@@ -13,10 +11,10 @@
                 "_UNICODE"
             ],
             "windowsSdkVersion": "10.0.26100.0",
-            "compilerPath": "C:/MinGW/bin/g++.exe",
-            "cStandard": "c11",
-            "cppStandard": "c++14",
-            "intelliSenseMode": "windows-gcc-x86"
+            "compilerPath": "C:/MinGW/bin/gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-arm64"
         }
     ],
     "version": 4
