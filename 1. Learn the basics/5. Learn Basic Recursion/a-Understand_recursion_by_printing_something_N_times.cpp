@@ -1,0 +1,19 @@
+// Understand recursion by printing something N times
+
+#include <bits/stdc++.h>
+using namespace std;
+
+void recur(int n){
+    if(n==0)return;
+    else{
+        cout<<"something\n";
+        recur(n-1);
+    }
+}
+
+int main(){
+    int n;
+    cin>>n;
+    recur(n);
+    return 0;
+}
