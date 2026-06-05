@@ -7,4 +7,19 @@ obj/
 *.obj
 *.dll
 *.lib
-*.out
+*.out 
+content.json
+e
+
+# Downloaded local video assets are too large for normal GitHub pushes.
+video_content/_video_cache/
+video_content/*
+video_content/**/__pycache__/
+video_content/**/*.part
+video_content/**/*.ytdl
+xa*/*.ytdll
+*.mp4
+*.avi
+*.mkv
+*.mov
+video_content/
